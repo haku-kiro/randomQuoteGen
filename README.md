@@ -1,5 +1,5 @@
 # randomQuoteGen
-A nihilism random quote generator I made using client side js only.
+A nihilism random quote generator I made using client side js.
 
 ##Can be viewed on:
 https://haku-kiro.github.io/randomQuoteGen/
