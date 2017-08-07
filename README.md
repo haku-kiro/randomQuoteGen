@@ -1,9 +1,9 @@
 # randomQuoteGen
 A nihilism random quote generator I made using client side js.
 
-##Can be viewed on:
+## Can be viewed on:
 https://haku-kiro.github.io/randomQuoteGen/
 
-##Full site: (Just more quotes)
+## Full site: (Just more quotes)
 http://nihl.site50.net/
 
